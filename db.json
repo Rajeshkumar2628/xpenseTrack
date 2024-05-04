@@ -1,1 +1,12 @@
-user
+{
+  "employee": [
+    {
+      "name": "rajesh kumar",
+      "age": "23",
+      "email": "admin@gmail.com",
+      "mobno": "9999888665",
+      "salary": "45000",
+      "id": "c64b"
+    }
+  ]
+}

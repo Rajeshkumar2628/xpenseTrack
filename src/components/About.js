@@ -14,7 +14,7 @@ export default function About() {
                     <button>Sign up Now</button>
                 </div>
                 <div className='col-6'>
-                    <img src={img1} style={{width:"75vh"}} />
+                    <img src={img1} alt='imageheading' style={{width:"75vh"}} />
                 </div>
             </div>
 
